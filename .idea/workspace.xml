@@ -4,31 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2b001bc2-d212-4bcd-96eb-5ca13ec34a87" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOPfrom5to7.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HW/Controller/Auto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HW/Controller/Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HW/Controller/VendingAutoHD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HW/Controller/VendingAutoOfBOW.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HW/Data/BottleOfWater.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HW/Data/HotDrinks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HW/Data/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HW/Data/Sweets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HW/Programm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HW/View/View.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice5/Controller/Controller1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice5/Data/Group.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice5/Data/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice5/Data/Teacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice5/Data/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice5/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice5/View/View.java" afterDir="false" />
+    <list default="true" id="2b001bc2-d212-4bcd-96eb-5ca13ec34a87" name="Changes" comment="new HW">
+      <change afterPath="$PROJECT_DIR$/src/HW6/work/Controller/GroupController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW6/work/Controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW6/work/Data/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW6/work/Data/StudentGroup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW6/work/Data/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW6/work/Data/UserComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW6/work/Data/UserInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW6/work/Data/Util.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW6/work/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW6/work/View/View.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,20 +44,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;D:/Programms/OOPfrom5to7/src/Main.java&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/Programms/OOPfrom5to7/src/HW6",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "D:/Programms/OOPfrom5to7/src/Main.java",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Programms\OOPfrom5to7\src\HW6" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -80,11 +74,25 @@
       <option name="presentableId" value="Default" />
       <updated>1697373082664</updated>
       <workItem from="1697373083790" duration="6943000" />
-      <workItem from="1697459836460" duration="6532000" />
+      <workItem from="1697459836460" duration="7381000" />
+      <workItem from="1697914400136" duration="2008000" />
     </task>
+    <task id="LOCAL-00001" summary="new HW">
+      <option name="closed" value="true" />
+      <created>1697484831704</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1697484831704</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="new HW" />
+    <option name="LAST_COMMIT_MESSAGE" value="new HW" />
   </component>
 </project>
